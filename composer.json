@@ -1,0 +1,17 @@
+{
+    "name": "ladien/lab1",
+    "description": "Лабораторная работа 1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ла Диен",
+            "email": "sylver0610@gmail.com"
+        }
+    ],
+    "require": {}
+}
